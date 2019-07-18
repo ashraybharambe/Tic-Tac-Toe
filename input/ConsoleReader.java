@@ -1,4 +1,3 @@
-package org.harshalic.tictactoe.input;
 
 /*
  * Reads TicTacToe game state from stdin. Expected input is like 
